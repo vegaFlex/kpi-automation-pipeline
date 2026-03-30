@@ -11,6 +11,8 @@ A Power BI dashboard is built directly on top of PostgreSQL, enabling real-time 
 
 ## Dashboard Preview
 
+![KPI Automation Pipeline Cover](cover%20photo.png)
+
 ### KPI Overview
 ![KPI](images/kpi_overview.png)
 
